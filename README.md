@@ -4,4 +4,4 @@
 
 - Hierarchical clustering algorithm from scratch
 
-- Bayesian optimization from scratch
+- Bayesian optimization for hyperparameters tunning from scratch
